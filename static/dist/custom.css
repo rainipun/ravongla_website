@@ -1,0 +1,19 @@
+
+
+header{
+    background-image:linear-gradient(90deg, rgba(222, 213, 175, 0.162) 0%, rgba(222,213,175,1) 49%, rgba(222, 213, 175, 0.266) 100%),url('images/heroimage.svg');
+}
+
+.icons-cc{
+    filter: brightness(0) saturate(100%) invert(22%) sepia(14%) saturate(4504%) hue-rotate(115deg) brightness(92%) contrast(104%);
+    
+}
+
+.ft{
+    
+    /* padding-top:[ratio]%; */
+    background-image: url("images/footer/footer1.jpeg");
+    background-image: url("images/footer/footer1.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
